@@ -2,7 +2,7 @@
 
 Sistema web para la gestión y visualización de servicios automotrices, desarrollado como proyecto académico, enfocado en una estructura organizada, facilidad de uso y buenas prácticas de desarrollo web.
 
----
+
 
 ## 📌 Descripción del Proyecto
 
@@ -11,7 +11,7 @@ El sistema presenta una interfaz clara para los clientes y una base sólida para
 
 El proyecto utiliza una **arquitectura tipo MVC**, separando la lógica del negocio, las vistas y la configuración, lo que mejora la mantenibilidad y escalabilidad del sistema.
 
----
+
 
 ## 🛠️ Tecnologías Utilizadas
 
@@ -24,7 +24,7 @@ El proyecto utiliza una **arquitectura tipo MVC**, separando la lógica del nego
 - **Bootstrap**
 - **Git & GitHub**
 
----
+
 
 ## 📂 Estructura del Proyecto
 
@@ -36,7 +36,7 @@ MP21079_L2/
 ├── sql/        # Script de base de datos
 └── README.md
 
----
+
 
 ## ⚙️ Requisitos del Sistema
 
@@ -62,7 +62,7 @@ Acceder al proyecto desde el navegador:
 
 http://localhost/MP21079_L2/public
 
----
+
 
 ## 🔐 Funcionalidades Principales
 
@@ -76,7 +76,7 @@ Estructura preparada para autenticación y administración
 
 Base escalable para futuras mejoras
 
----
+
 
 ## 🎓 Contexto Académico
 
@@ -90,7 +90,7 @@ Gestión de proyectos
 
 Uso de control de versiones con Git
 
----
+
 
 ## 👨‍💻 Autor
 
