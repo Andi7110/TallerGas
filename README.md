@@ -36,15 +36,16 @@ MP21079_L2/
 ├── sql/        # Script de base de datos
 └── README.md
 
+---
 
-⚙️ Requisitos del Sistema
+## ⚙️ Requisitos del Sistema
 
 XAMPP (Apache y MySQL)
 PHP 8 o superior
 Navegador web moderno
 Editor de código (Visual Studio Code recomendado)
 
-🚀 Instalación y Ejecución
+##🚀 Instalación y Ejecución
 
 Clonar o descargar el repositorio.
 
@@ -61,7 +62,9 @@ Acceder al proyecto desde el navegador:
 
 http://localhost/MP21079_L2/public
 
-🔐 Funcionalidades Principales
+---
+
+## 🔐 Funcionalidades Principales
 
 Página principal informativa
 
@@ -72,8 +75,9 @@ Diseño responsivo
 Estructura preparada para autenticación y administración
 
 Base escalable para futuras mejoras
+---
 
-🎓 Contexto Académico
+## 🎓 Contexto Académico
 
 Este proyecto fue desarrollado con fines educativos, aplicando conocimientos de:
 
@@ -84,8 +88,9 @@ Arquitectura MVC
 Gestión de proyectos
 
 Uso de control de versiones con Git
+---
 
-👨‍💻 Autor
+## 👨‍💻 Autor
 
 Jhostin Andoni Montalvo Paz
 Estudiante de Ingeniería en Sistemas
