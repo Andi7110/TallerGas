@@ -75,6 +75,7 @@ Diseño responsivo
 Estructura preparada para autenticación y administración
 
 Base escalable para futuras mejoras
+
 ---
 
 ## 🎓 Contexto Académico
@@ -88,6 +89,7 @@ Arquitectura MVC
 Gestión de proyectos
 
 Uso de control de versiones con Git
+
 ---
 
 ## 👨‍💻 Autor
