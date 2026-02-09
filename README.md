@@ -43,3 +43,49 @@ XAMPP (Apache y MySQL)
 PHP 8 o superior
 Navegador web moderno
 Editor de código (Visual Studio Code recomendado)
+
+🚀 Instalación y Ejecución
+
+Clonar o descargar el repositorio.
+
+Copiar la carpeta del proyecto en:
+
+C:\xampp\htdocs\
+
+
+Iniciar Apache y MySQL desde XAMPP.
+
+Importar la base de datos desde la carpeta sql usando phpMyAdmin.
+
+Acceder al proyecto desde el navegador:
+
+http://localhost/MP21079_L2/public
+
+🔐 Funcionalidades Principales
+
+Página principal informativa
+
+Visualización de servicios automotrices
+
+Diseño responsivo
+
+Estructura preparada para autenticación y administración
+
+Base escalable para futuras mejoras
+
+🎓 Contexto Académico
+
+Este proyecto fue desarrollado con fines educativos, aplicando conocimientos de:
+
+Desarrollo web
+
+Arquitectura MVC
+
+Gestión de proyectos
+
+Uso de control de versiones con Git
+
+👨‍💻 Autor
+
+Jhostin Andoni Montalvo Paz
+Estudiante de Ingeniería en Sistemas
